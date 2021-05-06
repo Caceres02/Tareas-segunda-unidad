@@ -1,0 +1,32 @@
+header{
+	background: #FCF3CF;
+}
+h1 {
+	text-align: center; 
+	color: #1A5276; 
+	font-size:45px; 
+}
+p1 {
+	font-family:cambria; 
+	font-size: 20px; 
+}
+body{
+	background: #F2F4F4;
+	font-family:cambria; 
+}
+
+p{
+	font-family:cambria; 
+	font-size: 25px; 
+	color: #5499C7; 
+}
+
+table{
+	background:#D0ECE7;
+	
+}
+
+footer{
+	background: #E8DAEF; 
+	color: black; 
+	font-family:cambria; 
